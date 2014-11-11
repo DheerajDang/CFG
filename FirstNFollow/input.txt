@@ -1,0 +1,8 @@
+E E+G
+E E-G
+E G
+G G*F
+G G/F
+G F
+F a
+F bEc
